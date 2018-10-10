@@ -7,4 +7,14 @@ Tantárgy tematika:
 1. Megismerkedés, a tárgy ismertetése, követelmények ismertetés
 2. Bevezető a információ technológiába
 3. Az infokommunikáció alapjai
-4. folyamatban...
+4. Hálózatok, I. rész
+5. Hálózatok, II. rész
+6. Az internet
+7. Kriptográfia és számrendszerek
+8. Vezetéknélküli hálózatok
+9. Az új generációs mobil-hálózatok
+10. Az RFID és NFC technológiák
+11. A Bluetooth technológia
+12. A LoRa technológia és a LoRaWAN hálózatok
+13. IQRF és NB-IoT technológiák
+14. Vállalati informatikai rendszerek
