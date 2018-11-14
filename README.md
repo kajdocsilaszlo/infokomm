@@ -1,6 +1,6 @@
 # Információs és kommunikációs rendszerek
 
-Ezen a GitHub tárhelyen elérhető előadásvázlatok és jegyzetek a Műszaki Menedzser alapképzésben részvevő hallgatók számára készültek.
+Ezen a GitHub tárhelyen elérhető előadásvázlatok és jegyzetek a Műszaki Menedzser BSc részvevő hallgatók számára készültek.
 
 Tantárgy tematika:
 
@@ -18,3 +18,13 @@ Tantárgy tematika:
 12. A LoRa technológia és a LoRaWAN hálózatok
 13. IQRF és NB-IoT technológiák
 14. Vállalati informatikai rendszerek
+
+
+__**Felhasznált források:**__
+
+1. A.S. Tanenbaum, D.J. Wetherall: Számítógép-hálózatok, Harmadik, bővített, átdolgozott kiadás. Panem könyvkiadó, 2013.
+2. M. Lutfar Rahman, et al.: Computer Fundamentals and ICT. Daffodil International University Press, 2016.
+3. Bluetooth Core Specification 5.0. Bluetooth SIG, 2016.
+4. LoRaWAN™ Specification v1.0.3. LoRa Alliance, Inc. 2018.
+5. RFID Resource Center: https://www.rfidinc.com, RFID, INC. 2018.
+6. NFC Protocol Technical Specifications: https://nfc-forum.org, The Near Field Communication (NFC) Forum, 2018.
