@@ -18,6 +18,7 @@ Témakörök:
 12. A LoRa technológia és a LoRaWAN hálózatok
 13. A Sigfox technológia és szolgáltatás
 14. IQRF és NB-IoT technológiák
+15. Navigációs szolgáltatások
 
 
 __**Felhasznált források:**__
